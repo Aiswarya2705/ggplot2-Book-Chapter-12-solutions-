@@ -8,7 +8,8 @@ My solutions to the 12th chapter (Programming with ggplot2) in the book - 'ggplo
 * 12.5.1 (Functional Programming)
 
 #### Some of the visualizations created
-![image](https://user-images.githubusercontent.com/73282149/130809146-5f88bbbc-95b8-4359-b931-b50cae6a2ede.png)
+![image](https://user-images.githubusercontent.com/73282149/130809146-5f88bbbc-95b8-4359-b931-b50cae6a2ede.png) <br>
+![image](https://user-images.githubusercontent.com/73282149/130809452-80c721d9-2e90-4c6e-baf3-2dcb7e532c05.png)
 
 ## References
 * Documentation
