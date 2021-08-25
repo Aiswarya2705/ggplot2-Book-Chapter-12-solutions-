@@ -3,7 +3,7 @@ My solutions to the 12th chapter (Programming with ggplot2) in the book - 'ggplo
 
 ## References
 * Documentation
-* help function (and operator) in R
+* help function (and operator) in R <br>
 Remaining references will be updated shortly
 
 These are not the only solutions possible. This is just meant to help out when you feel like you're stuck. Please feel free to point out some concerns or mistakes. Thank you
