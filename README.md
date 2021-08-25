@@ -7,6 +7,9 @@ My solutions to the 12th chapter (Programming with ggplot2) in the book - 'ggplo
 * 12.4.3 (Plot Functions)
 * 12.5.1 (Functional Programming)
 
+#### Some of the visualizations created
+![image](https://user-images.githubusercontent.com/73282149/130809146-5f88bbbc-95b8-4359-b931-b50cae6a2ede.png)
+
 ## References
 * Documentation
 * help function (and operator) in R <br>
