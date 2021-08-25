@@ -10,6 +10,7 @@ My solutions to the 12th chapter (Programming with ggplot2) in the book - 'ggplo
 #### Some of the visualizations created
 ![image](https://user-images.githubusercontent.com/73282149/130809146-5f88bbbc-95b8-4359-b931-b50cae6a2ede.png) 
 ![image](https://user-images.githubusercontent.com/73282149/130809452-80c721d9-2e90-4c6e-baf3-2dcb7e532c05.png)
+![image](https://user-images.githubusercontent.com/73282149/130809923-aa3246a4-4def-4387-9da1-674ce4da5994.png)
 ## References
 * Documentation
 * help function (and operator) in R <br>
